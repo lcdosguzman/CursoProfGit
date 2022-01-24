@@ -2,6 +2,8 @@ Este es archivo de prueba
 
 Que muestra una biografia
 
-tengo 33 años
+tengo 34 años
+
+Soy programador web
 
 Isla de Margarita, venezuela

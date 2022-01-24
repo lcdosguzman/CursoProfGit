@@ -1,4 +1,6 @@
-esta es mi hitoria
+Este es archivo de prueba
+
+Que muestra una biografia
 
 tengo 33 años
 

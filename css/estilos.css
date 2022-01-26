@@ -18,3 +18,8 @@ body{
     font-size: 12px;
     text-align: left;
 }
+.cabecera{
+    background-color: crimson;
+    color: blanchedalmond;
+    font-weight: 400;
+}
